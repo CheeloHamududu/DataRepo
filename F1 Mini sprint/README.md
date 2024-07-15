@@ -2,6 +2,10 @@
 # Overview
 This project aimed to predict milliseconds_x using various features related to race laps, positions, pit stops, and lap times. Through exploratory data analysis (EDA) and predictive modeling, insights were gained into how race dynamics influence milliseconds_x in competitive settings.
 
+# achievement
+
+Analyze Data and Implement Decision Modeling, a project-based learning experience, designed by IBM and Clicked.
+
 # Key Findings
 Influential Factors: Race lap number, lap position, and pit stop frequency were identified as significant predictors of milliseconds_x.
 Model Performance: The best-performing model, a Linear Regression with engineered features, achieved an R-squared of 0.75 on the test set, indicating strong predictive power.
